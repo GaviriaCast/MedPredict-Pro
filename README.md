@@ -74,5 +74,5 @@ El modelo final seleccionado es un **Random Forest** optimizado (200 estimadores
 
 ## 👥 Autores
 
-* **Gerónimo Gaviria Castañeda** — [geronimo.gaviria@upb.edu.co](mailto:geronimo.gaviria@upb.edu.co)
 * **Juan José Ospina Arroyave** — [juan.ospinaa@upb.edu.co](mailto:juan.ospinaa@upb.edu.co)
+* **Gerónimo Gaviria Castañeda** — [geronimo.gaviria@upb.edu.co](mailto:geronimo.gaviria@upb.edu.co)
