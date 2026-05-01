@@ -33,7 +33,9 @@ El modelo final seleccionado es un **Random Forest** optimizado (200 estimadores
 * `03_despliegue.ipynb`: Documentación conceptual del despliegue del modelo predictivo.
 * `app.py`: Código fuente de la interfaz gráfica interactiva.
 * `data/`: Directorio que contiene los datasets originales y limpios listos para el modelo.
+* `Documentation/`: Directorio con la documentación teórica del proyecto.
 * `models/`: Modelos exportados (`best_rf_model.pkl`, `scaler.pkl` y `feature_names.pkl`).
+* `PowerBI_Dashboard_Guide.md`: Guía para la construcción del Dashboard en Power BI.
 * `reports/`: Reportes HTML generados (Pandas Profiling) y gráficas de validación (Matrices de confusión, importancia de features).
 * `pantallazo_app.png`: Captura de pantalla de la interfaz gráfica funcionando.
 
